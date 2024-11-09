@@ -4,6 +4,8 @@ Duncan's `ZeroEffs` uses the base of the Voron V0, overhauled with several commu
 
 ![ZeroEffs Hero](i/ZeroEffs-1.png) ![ZeroEffs Corner](i/ZeroEffs-2.png)
 
+It has been 3 years to get to this point.  Sorry ro4 the wait!
+
 ZeroEffs is comprised of the following:
 
 - [F-Zero QLG conversion by zruncho](https://github.com/zruncho3d/f-zero).
