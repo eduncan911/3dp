@@ -1,5 +1,11 @@
 # CAD Files
 
+The following STEP files are available:
+
+- ZeroEffs_assembly : The large CAD of all mods to date.
+- ministealth_x-carriage : A single body export from the assembly above.
+- pandora_extrusionless : A single body export from the assembly above.
+
 This directory holds two types of files.
 
 ## .FCStd
