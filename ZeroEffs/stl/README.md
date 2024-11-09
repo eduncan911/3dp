@@ -1,6 +1,6 @@
 # ZeroEffs - STLs
 
-Only the STLs that I designed are exported here as the source of truth. 
+Only the STLs that I designed are exported here as the source of truth. They are oriented for strength, ready to print.
 
 For the rest of the machine, you most likely don't want to use my assembly to export from as the origins have not been set.  Instead, source those files from the original authors listed in the root README as they will always have the latest and greatest.
 
