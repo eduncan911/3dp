@@ -19,13 +19,13 @@ Without the truly awesome work by these individuals, this machine would never ha
 You will find the assembly of the CAD in `/cad`.
 
 ![ZeroEffs Printed Parts from a Dremel 3D45](i/f-zero-printed.jpg)
-![ZeroEffs Bed Peeling](i/zeroeffs-bed-peeling.mp4)
 ![ZeroEffs Hero 2023](i/zeroeffs-hero-2023.jpg)
 
+https://github.com/user-attachments/assets/d1783b58-280e-4cd8-9f2b-ace71146b2f8
 
 ## Duncan's Mods
 
-There were two mods developed for this project.  They are purely optional and you do not have to use them.  You will find the CAD of the mods in `/cad` and aligned meshes ready to FDM print in `/stl`.
+There were two mods developed for this project.  They are purely optional and you do not have to use them.  You will find the CAD of the mods in `/cad` and aligned-for-strength meshes ready to FDM print in `/stl`.
 
 ### - **pandora_extrusionless_xy-mount**
 
@@ -35,8 +35,9 @@ This project was originally inspired by [Richardjm's floating MGN9-H idea](https
 
 My version fits the Pandora gantry only (I have no idea if it would fit in the PandoraBox's gantry).
 
-![Pandora Extrusion-less Gantry](i/pandora-extrusionless-gantry.mp4)
 ![Pandora Extrusion-less Gantry printed](i/pandora-extrusionless-xy_joint.jpg)
+
+https://github.com/user-attachments/assets/bf14ea4c-bfce-4443-8aa9-824eb8d70aa2
 
 
 ### - **ministealth_x-carriage_mgn9h**
@@ -95,13 +96,15 @@ The STLs for my two mods above have been exported with proper print orientations
 
 There are still a few todo items on the agenda.  None of which prevents the machine from working.  However, they are good QoL improvements that should be done at some point.
 
-- Panels-as-Structure mod to add panels directly screwed into the sides.  This is to eliminate the "tilting" forward and backwards of the tall BoxZero design and high QLG positions.
+- Panels-as-Structure mod to add panels directly screwed into the sides.  This is to eliminate the "rocking" forward and backwards of the tall BoxZero design and high QLG positions.  This is also why you do not see ZeroPanels on my pictured builds on display, even though it is in the CAD.
 - Move the bed backwards in Y to account for full motion.  While you can get 120x120 just fine, the front of the ministealth hits the Z belts and doesn't let  you go any further out of 120 in X when moved to Y10 or less.  The solution will be to move the bed backwards in Y by stretching the front bed mount.
 - Custom Nevermore HEPA+Carbon filter.  I'm thinking a mini-StealthMax.  The ZeroFilter, while excellent, does not have HEPA.  And it interferes with the Nudge position requirement (see CAD).
 - Mosquito-Net solution in the MiniStealth.  My x-carriage already has provisions for it.  So it's just a matter of CADing up a solution for a laser cutter!
 - PrintShift part ejection system.  The front lower printed corners have already been modified in my build to clear it.
 
-I may slowly get to these over time.  Feel free to bug me on Discord about them.
+And finally... A MiniStealth "Changer", mounted at the front-top.  This was always my plans of why I used 220mm Z rails from a Micron 180.  And now there's a StealthChanger V2.4 mod that actually did exactly part by part of my crazy idea.  Big shout out to that team, this is awesome: https://github.com/DraftShift/StealthChanger.  But now, we have AMS-like systems such as the BoxTurle and the requirement for a filament cutter at the toolhead along with a sensor and you can have as many lanes you want. 
+
+I may slowly get to these over time.  Life comes first though.  Feel free to ping me on the Fabreeko Discord about them.
 
 
 ## Origin Story 
