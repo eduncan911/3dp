@@ -18,4 +18,4 @@ Specifically, the X-Carriage has its feature tree in this file and if you open i
 
 These are compressed STEP files.
 
-If your CAD application does not support compressed step files, you can just unzip the `stpZ` file and then you'll have a normal step file.
+If your CAD application does not support this open standard of compressed step files, you can unzip the `stpZ` file and then you'll have a normal step file.
