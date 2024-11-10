@@ -104,7 +104,9 @@ There are still a few todo items on the agenda.  None of which prevents the mach
 - Mosquito-Net solution in the MiniStealth.  My x-carriage already has provisions for it.  So it's just a matter of CADing up a solution for a laser cutter!
 - PrintShift part ejection system.  The front lower printed corners have already been modified in my build to clear it.
 
-And finally... A MiniStealth "Changer", mounted at the front-top.  This was always my plans of why I used 220mm Z rails from a Micron 180.  And now there's a StealthChanger V2.4 mod that actually did exactly part by part of my crazy idea.  Big shout out to that team, this is awesome: https://github.com/DraftShift/StealthChanger.  But now, we have AMS-like systems such as the BoxTurle and the requirement for a filament cutter at the toolhead along with a sensor and you can have as many lanes you want. 
+And finally... An ZeroEffs "ToolChanger", mounted at the front-top with just two toolheads.  One to function all the time, and the other to allow me functionality to continue more mods (filament cutter, etc).  
+
+These were always my plans and why I used 220mm Z rails from a Micron 180.  And now there's a StealthChanger V2.4 mod that actually did exactly part by part of my crazy idea.  Big shout out to that team, this is awesome: https://github.com/DraftShift/StealthChanger.  
 
 I may slowly get to these over time.  Life comes first though.  Feel free to ping me on the Fabreeko Discord about them.
 
